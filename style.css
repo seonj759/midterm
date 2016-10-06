@@ -1,0 +1,74 @@
+h1 {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+}
+h2 {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+}
+.column {
+	display: flex;
+	width: 1400px;
+	height: 800px;
+}
+.article {
+	width: 500px;
+	height: 500px;
+	margin: 10px;
+}
+.article h2 {
+	color: blue;
+	font-weight: bold;
+	padding: 20px 20px 10px 20px;
+}
+.article h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0 0 0 10px;
+}
+.article p {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+	margin: 10px 0 0 10px;
+}
+.nav {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.nav li {
+	font-family: 'Open Sans', sans-serif;
+	display: inline;
+	margin: 10px;
+}
+.text h4 {
+	color: blue;
+	font-weight: bold;
+	padding: 20px 20px 10px 20px;
+}
+.text h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0 0 15px 10px;
+}
+.text h6 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	margin: 10px 0 10px 10px;
+}
+.text p {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+	font-size: 15px;
+	padding: 0 15px 0 5px;	
+}
